@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: Nov 13, 2016 at 09:44 PM
+-- Generation Time: Nov 14, 2016 at 03:43 PM
 -- Server version: 10.0.27-MariaDB-0ubuntu0.16.04.1
 -- PHP Version: 7.0.8-0ubuntu0.16.04.3
 
@@ -42,16 +42,16 @@ CREATE TABLE `acaras` (
 --
 
 INSERT INTO `acaras` (`id`, `tanggal`, `nama_acara`, `desc`, `gambar`, `barcode`, `created_at`, `updated_at`) VALUES
-(1, '1974-07-24 02:38:21', 'Anderson Ford', 'Sit qui expedita voluptatem. Iusto ab est quae eum iusto rerum. Ratione quos et officia rem enim quia.', 'acara/images.jpeg', '7032980115521', '2016-11-11 08:11:04', '2016-11-11 08:11:04'),
-(2, '2010-04-29 16:50:24', 'Eichmann Plaza', 'Sapiente reiciendis quis omnis ipsa vel in tempore. Laudantium cum non laborum labore voluptates iste. Velit aut iste omnis eos enim omnis.', 'acara/images.jpeg', '4774851532527', '2016-11-11 08:11:04', '2016-11-11 08:11:04'),
-(3, '1986-08-22 06:54:56', 'Turner Junctions', 'Et voluptate recusandae est doloribus. Non molestiae voluptatum adipisci a eum rerum omnis voluptatem. Delectus inventore quis fugiat iusto.', 'acara/images.jpeg', '8787062128829', '2016-11-11 08:11:04', '2016-11-11 08:11:04'),
-(4, '1976-06-11 08:32:10', 'Kozey Locks', 'Ut in voluptate nemo neque aut. Eos voluptatibus adipisci sunt saepe ut reiciendis modi. Nisi quo quidem id necessitatibus exercitationem sed quia.', 'acara/images.jpeg', '5838824651383', '2016-11-11 08:11:04', '2016-11-11 08:11:04'),
-(5, '2003-07-12 16:28:51', 'Hane Branch', 'Eius vel totam fugit sequi. Iste iusto vel libero consectetur quo a. Enim commodi debitis explicabo consequatur vel.', 'acara/images.jpeg', '5337962618604', '2016-11-11 08:11:04', '2016-11-11 08:11:04'),
-(6, '2008-10-22 11:09:36', 'Rosemarie Inlet', 'Corporis porro quaerat cupiditate dicta debitis quas ducimus. Quia voluptatibus illo nostrum omnis modi doloribus. Laborum officia laudantium cumque consequatur animi.', 'acara/images.jpeg', '1928616340558', '2016-11-11 08:11:04', '2016-11-11 08:11:04'),
-(7, '2008-07-11 21:59:49', 'Kertzmann Ridges', 'Et recusandae sunt nostrum necessitatibus odit. Qui deserunt aperiam id blanditiis architecto labore. Vero voluptatibus dolorem placeat qui harum distinctio. Eligendi consequatur iste in ipsa eius.', 'acara/images.jpeg', '9977048686033', '2016-11-11 08:11:04', '2016-11-11 08:11:04'),
-(8, '1986-07-17 00:39:29', 'Abshire Shore', 'Occaecati aut quia dolore suscipit sint aut unde. Perferendis nobis laudantium iste ipsum fugiat. Est et minima rerum excepturi ut ut.', 'acara/images.jpeg', '4576175743562', '2016-11-11 08:11:04', '2016-11-11 08:11:04'),
-(9, '1976-12-20 23:05:21', 'Friesen Glen', 'Facilis eaque labore dolore et omnis non. Suscipit eos quod consequatur assumenda.\nVel voluptatibus deleniti dolores maiores ullam eius. Vel quo id aut voluptas consectetur praesentium.', 'acara/images.jpeg', '1359420507330', '2016-11-11 08:11:04', '2016-11-11 08:11:04'),
-(10, '2010-06-06 15:24:44', 'Ziemann Divide', 'Illo dolores porro tempora esse. In sed est repellendus in quaerat et eos. Saepe cupiditate explicabo sequi ut vel deserunt sapiente. Quaerat in fugiat eum vel explicabo.', 'acara/images.jpeg', '4840888455020', '2016-11-11 08:11:04', '2016-11-11 08:11:04');
+(1, '1984-03-21 08:05:27', 'Reynolds Spur', 'Deserunt illum autem earum eligendi. Magni ut sint et aut alias. Dolor cupiditate quae autem ut maxime.', 'acara/images.jpeg', '0144208723801', '2016-11-14 01:42:06', '2016-11-14 01:42:06'),
+(2, '2004-01-19 01:14:23', 'Bayer Springs', 'Voluptas possimus repellat eveniet aliquid rerum id et tenetur. Consequuntur temporibus exercitationem voluptate.', 'acara/images.jpeg', '5117155989397', '2016-11-14 01:42:06', '2016-11-14 01:42:06'),
+(3, '1981-03-22 11:40:51', 'Cummerata Street', 'Iste porro reiciendis sed ut neque. Dolores molestiae occaecati doloribus omnis omnis. Aut non vel iusto tenetur inventore.', 'acara/images.jpeg', '4412082123717', '2016-11-14 01:42:06', '2016-11-14 01:42:06'),
+(4, '1988-05-20 08:55:33', 'Shields Manor', 'Perspiciatis qui eos adipisci dicta. Quis ea ut at voluptas sit. Mollitia id tenetur consequatur quos ea. Consequuntur aliquid repellendus quia id eos quos suscipit.', 'acara/images.jpeg', '9930639072332', '2016-11-14 01:42:06', '2016-11-14 01:42:06'),
+(5, '2006-08-07 16:14:20', 'Becker Fields', 'Sint ad commodi consequatur aperiam aut illo dolorem adipisci. Voluptates cumque itaque facilis id quo. Provident tempora quia non aspernatur fugit sit. Numquam repudiandae aut non rem.', 'acara/images.jpeg', '6952068270625', '2016-11-14 01:42:06', '2016-11-14 01:42:06'),
+(6, '2003-12-01 13:15:56', 'Jakubowski Streets', 'Harum et voluptatibus impedit ipsam rem. Odit voluptate nam neque voluptas quas molestiae. Quia omnis est nulla perferendis.', 'acara/images.jpeg', '4537416907631', '2016-11-14 01:42:06', '2016-11-14 01:42:06'),
+(7, '2008-02-23 21:34:49', 'Carter Terrace', 'Cumque dolorem dolorum nihil harum. Quo facere autem in eos at. Corporis quo omnis quidem minima dolorum blanditiis accusantium.', 'acara/images.jpeg', '6527963406662', '2016-11-14 01:42:06', '2016-11-14 01:42:06'),
+(8, '1990-02-15 12:13:43', 'Maggio Ford', 'Commodi totam eos est aut. Harum vel dolor aut eum adipisci earum neque. Consectetur atque et ad neque illum rerum ut temporibus.', 'acara/images.jpeg', '0416897964224', '2016-11-14 01:42:06', '2016-11-14 01:42:06'),
+(9, '1989-02-01 11:49:27', 'Renner Street', 'Quia ratione voluptatum voluptatibus sed beatae neque in. Qui cum porro fugit itaque. Nam quo repudiandae tenetur eaque ullam saepe eaque.', 'acara/images.jpeg', '2762184251712', '2016-11-14 01:42:07', '2016-11-14 01:42:07'),
+(10, '1998-05-13 01:06:13', 'Thompson Streets', 'Alias consequatur qui consequatur suscipit. Blanditiis maiores iste tempora amet. Esse consequatur libero aspernatur et. Quibusdam aut rerum esse.', 'acara/images.jpeg', '9944394755980', '2016-11-14 01:42:07', '2016-11-14 01:42:07');
 
 -- --------------------------------------------------------
 
@@ -95,20 +95,17 @@ CREATE TABLE `registrasis` (
 --
 
 INSERT INTO `registrasis` (`id`, `nama`, `email`, `password`, `no_telp`, `jenis_member`, `imei`, `created_at`, `updated_at`) VALUES
-(1, 'Dr. Chloe Wisoky', 'zita41@bogisich.info', '$2y$10$V0XSczQbFHLyNKpoDdNPX.Qb2fJ3swphpsGBjmO7IHC4C/DZn/bii', '(217) 220-6881', 'member', '8839524', '2016-11-11 08:11:02', '2016-11-11 08:11:02'),
-(2, 'Bonita Gorczany', 'tianna.hettinger@mccullough.com', '$2y$10$IQWKyoooKMEmcQC1La9fqeuqnzEIzwISY6/g2mSTrwtnVoL7.eZYa', '291.679.2447 x2177', 'member', '188', '2016-11-11 08:11:03', '2016-11-11 08:11:03'),
-(3, 'Lora Kuphal II', 'wellington35@crona.info', '$2y$10$R68rXWKPyMOqOayBmYGbBeqgZsbw9GnUK5eqDpzEm5I8qs7OXo/2m', '217.341.6633', 'member', '23', '2016-11-11 08:11:03', '2016-11-11 08:11:03'),
-(4, 'Henri Koepp', 'eladio.thompson@cruickshank.com', '$2y$10$n0z8MGw.sxFpDHpus.hbI.7HXMmvJkNbCO/CppgncSrTlaKzr3Fwq', '1-780-726-7633', 'member', '33641', '2016-11-11 08:11:03', '2016-11-11 08:11:03'),
-(5, 'Dr. Larue Runte II', 'abigale.altenwerth@mosciski.com', '$2y$10$ky96oGqyDrzfIPPgowUc2OR4KzfXWhuLhGaadyHBSn0XaZN2T27Hy', '206-486-3297 x02487', 'member', '35422041', '2016-11-11 08:11:03', '2016-11-11 08:11:03'),
-(6, 'Dr. Eriberto Armstrong', 'agleason@cormier.com', '$2y$10$aHr2wEGO2SZxnugI5uoED.Jl.2oOc79oYdZxNR2SllkYYRg52Y.Jq', '(690) 484-9069', 'member', '140179', '2016-11-11 08:11:03', '2016-11-11 08:11:03'),
-(7, 'Cyril Kshlerin', 'jkiehn@spinka.com', '$2y$10$vDYSYk.xY5a5NPky7mu2F.Uc5.UKuSxRAiuQp2d6wYcQyrcfNhSu.', '357-773-5456', 'member', '6513001', '2016-11-11 08:11:03', '2016-11-11 08:11:03'),
-(8, 'Mrs. Shanny Gutmann', 'bmarvin@hotmail.com', '$2y$10$/rG.Zb.PIyBxReLSrpzs5.c1bJ8l.6Sbzk0xH7YiKp0XiKbdG9Ciy', '1-695-518-6151 x1597', 'member', '486', '2016-11-11 08:11:03', '2016-11-11 08:11:03'),
-(9, 'Jadon Rau', 'martine06@swift.com', '$2y$10$KejBwoV.vKuKRD86/H7pnuuEqi6/2qvqS1UUEWpNqTTJZ.mW.uvLS', '1-634-416-0644 x3108', 'member', '52262323', '2016-11-11 08:11:04', '2016-11-11 08:11:04'),
-(10, 'Dr. Brain Kub', 'elinor11@gmail.com', '$2y$10$qN1/UDCP2cJ7xY3oxk42i.ZHW0iL0/0VU4LgftNKUbdvhuIpYqxdq', '(880) 764-5324', 'member', '62277', '2016-11-11 08:11:04', '2016-11-11 08:11:04'),
-(11, 'Malik Al Ichsan', 'atat@gmail.com', '$2y$10$lW46e8pNX/wg6L7LFUwpy.n5ILuHeXbUVV9wlgpnAN5oteBbeBX.q', '123', 'member', '123', '2016-11-12 01:24:23', '2016-11-12 01:24:23'),
-(12, 'Malik Al Ichsan', 'aaatat@gmail.com', '$2y$10$KqWMNv4yxCqtgy1GMuV0B.llAsMkgTl/6AspUmC2GNXaahdPYxgsW', '123', 'member', '123', '2016-11-12 01:25:13', '2016-11-12 01:25:13'),
-(15, 'Malik Al Ichsan', 'ataat@gmail.com', '$2y$10$tZPDs4ucR6SkzDTaD1bpvehHfOOLODg20LPXaSd6JJOmwBbTVS95y', '123', 'member', '123', '2016-11-12 01:33:45', '2016-11-12 01:33:45'),
-(17, 'Malik Al Ichsan', 'ataaat@gmail.com', '$2y$10$2J7RPiMi9FXUtK8VjyVhOuv4vXe9OKMKdLmRAPXtZui17L6MRXjp.', '123', 'member', '123', '2016-11-13 01:06:54', '2016-11-13 01:06:54');
+(1, 'Dilo Admin', 'admin@admin.com', '$2y$10$JoymOtWpH5AxMmcIy4V1g./ZL1cBDVit7j6SB0zqi2vb4.x92TE3m', '12345678', 'admin', '12345678', '2016-11-14 01:42:05', '2016-11-14 01:42:05'),
+(2, 'Astrid Koelpin', 'hugh.lebsack@gmail.com', '$2y$10$g9LJujcFTumJLPuNRjs3nekvpl.hBJeetnRlGpTvGE/Yzx0crTvBS', '1-896-905-7026 x0749', 'member', '853279052', '2016-11-14 01:42:05', '2016-11-14 01:42:05'),
+(3, 'Issac Monahan', 'kihn.jamison@mertz.com', '$2y$10$0yhRtKTYZpH/oou166XENu1GsvOLGwrpxFWIJ4zoNsyQY90DpqyGq', '+1.682.832.6390', 'member', '952168657', '2016-11-14 01:42:05', '2016-11-14 01:42:05'),
+(4, 'Dejah Stehr', 'ariane19@bahringer.com', '$2y$10$Oj91dB8zCKoytlLj2xkWFuYZNrJ9fVAyTX/umRtQU2qRkqTp6rULa', '+1.885.900.6046', 'member', '2698', '2016-11-14 01:42:05', '2016-11-14 01:42:05'),
+(5, 'Louisa Kshlerin IV', 'leone29@lueilwitz.com', '$2y$10$TLji8VYZUCKwwB2vr1jC6uKZmkNwgXHRUt8fIxIrOIDRlhRivlgDu', '(920) 712-4871 x5442', 'member', '11083458', '2016-11-14 01:42:05', '2016-11-14 01:42:05'),
+(6, 'Eugene Wisozk', 'frances27@bayer.org', '$2y$10$e..ZQdoZhkBvHYRC7oWKau62fXjMtXI9nrpKiF1P6a5JvWyo8uRou', '1-583-281-3978 x7340', 'member', '686489', '2016-11-14 01:42:05', '2016-11-14 01:42:05'),
+(7, 'Prof. Sebastian Farrell V', 'emiliano.lubowitz@yahoo.com', '$2y$10$wRG.AdjjtKVSqhBT9VnNS.HjEKs0zqTCzjuP/NEHglmm0ifGZ2dza', '1-701-601-8684 x091', 'member', '22331080', '2016-11-14 01:42:05', '2016-11-14 01:42:05'),
+(8, 'Olga Lind', 'spencer.joe@wolff.com', '$2y$10$Mb4Db5IbN0zD315a1bewJOcCh0duEKeNPk.TQgn//fI1yisi3Cv.m', '(715) 933-9325', 'member', '49', '2016-11-14 01:42:06', '2016-11-14 01:42:06'),
+(9, 'Percy McLaughlin DVM', 'ewilliamson@yahoo.com', '$2y$10$3CkxK7UC2gYXZHk8W6ImV.bOeul7G0.n0VzgXwpllBdgO1dVlLPbK', '746.879.4575 x93746', 'member', '58', '2016-11-14 01:42:06', '2016-11-14 01:42:06'),
+(10, 'Ryder Gutkowski', 'kbalistreri@gmail.com', '$2y$10$6cwzXlKLVB.0BHVjjkUV3..3ueh3gU18JylADqoKq3EKJuK15y1ry', '+1-540-691-7590', 'member', '909349903', '2016-11-14 01:42:06', '2016-11-14 01:42:06'),
+(11, 'Eriberto Huel', 'ebins@yahoo.com', '$2y$10$.e11oR.aKJNx8TfNjSEX3.l3sKW1FPA5hvuE/L980M1lwbodYr4JG', '+1.423.251.8070', 'member', '8543', '2016-11-14 01:42:06', '2016-11-14 01:42:06');
 
 --
 -- Indexes for dumped tables
@@ -140,7 +137,7 @@ ALTER TABLE `acaras`
 -- AUTO_INCREMENT for table `registrasis`
 --
 ALTER TABLE `registrasis`
-  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=18;
+  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=12;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
