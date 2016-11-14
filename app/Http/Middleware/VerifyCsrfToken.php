@@ -15,6 +15,7 @@ class VerifyCsrfToken extends BaseVerifier
         'api/registrasi',
         'api/registrasi/*',
         'api/acara',
-        'api/acara/*'
+        'api/acara/*',
+        'api/auth/login'
     ];
 }

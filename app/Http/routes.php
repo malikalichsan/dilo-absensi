@@ -18,4 +18,12 @@ Route::get('/', function () {
 Route::group(['prefix' => 'api'], function () {
     Route::resource('registrasi', 'RegistrasisController', ['except' => ['create', 'edit']]);
     Route::resource('acara', 'AcarasController', ['except' => ['create', 'edit']]);
+    Route::post('auth/login', [
+        'as'    => 'api.auth.login',
+        'uses'  => 'AuthController@doLogin'
+    ]);
+    Route::get('auth/logout', [
+        'as'    => 'api.auth.logout',
+        'uses'  => 'AuthController@doLogout'
+    ]);
 });
