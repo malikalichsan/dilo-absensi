@@ -12,7 +12,19 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return redirect()->route('sistem');
+});
+
+Route::group(['prefix' => 'sistem'], function() {
+    Route::get('/', [
+        'as'    => 'sistem',
+        'uses'  => 'SistemController@index'
+    ]);
+    Route::get('members', [
+        'as'    => 'sistem.members',
+        'uses'  => 'SistemController@getMembers'
+    ]);
+    Route::resource('acaras', 'SistemAcaraController');
 });
 
 Route::group(['prefix' => 'api'], function () {
